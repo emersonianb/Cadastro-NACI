@@ -1,6 +1,6 @@
 <img src="https://github.com/emersonianb/Proles-Bank/blob/f6c50064ed9849129fbf6f7d677d0c4182e1c645/p__1_-removebg-preview.png" alt="logo" width=190 height=200>
 
-# Cadastro-Proles
+# Cadastro Proles
 
 <p> <h2> Repositório em desenvolvimento criado para compartilhar a interface web criada para o projeto Proles Bank </h2> </p> <br>
 
